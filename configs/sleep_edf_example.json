@@ -1,0 +1,6 @@
+{
+  "dataset_root": "/path/to/sleep-edfx-1.0.0",
+  "project_data_root": "/path/to/rncp_outputs",
+  "cache_root": "/path/to/rncp_cache",
+  "primary_subset": "sleep-cassette"
+}

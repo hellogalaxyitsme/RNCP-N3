@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local data and generated analysis outputs
+data/
+datasets/
+outputs/
+interim/
+cache/
+logs/
+Images/
+Candidate_Images/
+
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/
