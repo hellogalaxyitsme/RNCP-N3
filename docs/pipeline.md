@@ -2,7 +2,7 @@
 
 This repository contains the analysis code for the associated study:
 
-**Residual neural-complexity profiles reveal graded excitability structure and transition dynamics within N3 sleep**
+**Residual neural-complexity profiles reveal graded internal structure and transition dynamics within N3 sleep**
 
 The pipeline is organized as sequential analysis modules. Scripts write derived tables under the `project_data_root` specified in the JSON config files.
 
