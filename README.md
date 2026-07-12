@@ -1,6 +1,6 @@
 # RNCP-N3
 
-Analysis code for **"Residual neural-complexity profiles reveal graded excitability structure and transition dynamics within N3 sleep."**
+Analysis code for **"Residual neural-complexity profiles reveal graded internal structure and transition dynamics within N3 sleep."**
 
 This analysis tests whether visually scored human N3 sleep contains reproducible residual electrophysiological heterogeneity after accounting for age, sex, homeostatic timing, slow-wave burden, channel, and subject/night structure. The analysis defines a Residual Neural-Complexity Profile (RNCP) from four EEG-derived features: Lempel-Ziv complexity, permutation entropy, spectral entropy, and the aperiodic spectral exponent.
 
